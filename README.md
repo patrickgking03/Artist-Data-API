@@ -6,5 +6,6 @@ This is my Artist Data API for this assignment. This whas created with CodeSandb
 
 Links: 
 https://codesandbox.io/s/artist-data-api-i2lehl
+https://i2lehl.csb.app/
 
 **Patrick King**
