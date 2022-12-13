@@ -1,8 +1,10 @@
-# CMSI 2021 Homework 2
+# CMSI 2021 Web Application Development
+## Homework #2 (Due: 2022-10-06)
+
+### Description
+This is my Artist Data API for this assignment. This whas created with CodeSandbox.
+
+Links: 
+https://codesandbox.io/s/artist-data-api-i2lehl
+
 **Patrick King**
-
-Artist Data API
-
-Created with CodeSandbox
-
-Link: https://codesandbox.io/s/artist-data-api-i2lehl
